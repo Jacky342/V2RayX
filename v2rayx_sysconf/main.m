@@ -2,7 +2,7 @@
 //  main.m
 //  v2rayx_sysconf
 //
-//  Copyright © 2016年 Cenmrev. All rights reserved.
+//  Copyright © 2020年 Cenmrev. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
